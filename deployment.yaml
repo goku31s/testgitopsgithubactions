@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: mdhack/hcl
+        image: goku431/hcl
         ports:
         - containerPort: 80
