@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: goku431/hcl
+        image: goku431/hclsukrit31:latest
         ports:
         - containerPort: 80
